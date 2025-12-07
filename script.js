@@ -1,6 +1,6 @@
 ﻿// CẢNH BÁO: KHÔNG NÊN ĐẶT API KEY TRỰC TIẾP TRONG MÃ PHÍA CLIENT CHO ỨNG DỤNG CÔNG KHAI!
 // Thay thế YOUR_API_KEY_HERE bằng Khóa API thật của bạn
-const GEMINI_API_KEY = "AIzaSyCvv9dyiGvsKjUm6b0dtcww25eyaXaCT_U"; 
+const GEMINI_API_KEY = "AIzaSyCCeed-uPcDvA_In4ZoYXZ4tRnhzDfLXs8"; 
 const MODEL_NAME = "gemini-2.5-flash";
 
 // Khởi tạo đối tượng GoogleGenAI
